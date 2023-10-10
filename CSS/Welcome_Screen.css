@@ -7,6 +7,7 @@
     font-family: inter;
 }
 
+
 .welcome{
    border: solid;
    width: 100vw;
@@ -18,10 +19,14 @@
    background-color: #343541;
 }
 
+.welcome-button{
+    display: inline-flex;
+}
+
 #welcome-one{
     color: #ffffff;
     width: 329px;
-    height: 27px;
+    height: 2px;
     font-size: 15px;
     font-weight: 500;
     margin-left: 175px;
@@ -31,7 +36,32 @@
 #welcome-two{
     color: #ffffff;
     width: 319px;
-    height: 27px;
+    height: 12px;
     font-size: 15px;
     font-weight: 500;
 }
+
+#log-in{
+    border: none;
+    width: 66px;
+    height: 38px;
+    border-radius: 4px;
+    background-color: #0fa47f;
+    color: white;
+    margin-top: 5px;
+    margin-right: 12px;
+    cursor: pointer;
+}
+
+#sign-up{
+    border: none;
+    width: 75px;
+    height: 38px;
+    border-radius: 4px;
+    background-color: #0fa47f;
+    color: white;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+

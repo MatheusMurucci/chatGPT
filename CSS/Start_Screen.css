@@ -15,6 +15,97 @@ body{
 main{
    width: 1432px;
    height: 752px;
+   display: inline-flex;
+}
+
+.menu-left{
+   border: solid;
+   width: 261px;
+   height: 100vh;
+   background-color: #202123;
+}
+
+#left-top{
+   border: solid 1px #444654;
+   display: inline-flex;
+   align-items: center;
+   width: 244px;
+   height: 45px;
+   margin-bottom: 585px;
+   margin-left: 4px;
+   margin-top: 9px;
+   padding-left: 25px;
+}
+
+#left-top img{
+   width: 8px;
+   height: 8px;
+}
+
+#left-top h4{
+   font-size: 13.5px;
+   font-weight: 500;
+}
+
+#line{
+   display: flex;
+   justify-content: center;
+   margin-bottom: 21px;
+}
+
+#light-mode{
+   display: inline-flex;
+   width: 108px;
+   height: 14px;
+   margin-left: 21px;
+   margin-bottom: 35px;
+}
+
+#light-mode h4{
+   font-size: 13.5px;
+   font-weight: 500;
+   margin-left: 13px;
+}
+
+#open-ai{
+   display: inline-flex;
+   width: 133px;
+   height: 12px;
+   margin-left: 21px;
+   margin-bottom: 35px;
+}
+
+#open-ai h4{
+   font-size: 13.5px;
+   font-weight: 500;
+   margin-left: 13px;
+}
+
+#updates{
+   display: inline-flex;
+   width: 127px;
+   height: 12px;
+   margin-left: 21px;
+   margin-bottom: 35px;
+}
+
+#updates h4{
+   font-size: 13.5px;
+   font-weight: 500;
+   margin-left: 13px;
+}
+
+#log-out{
+   display: inline-flex;
+   width: 85px;
+   height: 12px;
+   margin-left: 21px;
+}
+
+#log-out h4{
+   font-size: 13.5px;
+   font-weight: 500;
+   margin-left: 13px;
 }
 
 .middle{

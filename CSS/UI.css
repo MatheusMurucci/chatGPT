@@ -1,0 +1,236 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;500;600;700;800;900&display=swap');
+
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: inter; 
+   color: white;
+}
+
+body{
+   background-color: #343541;
+   height: 100vh;
+   display: flex;
+   flex-direction: column;
+}
+
+main{
+   width: 1432px;
+   height: 752px;
+   display: inline-flex;
+}
+
+.menu-left{
+   width: 261px;
+   height: 100vh;
+   background-color: #202123;
+}
+
+#left-toop{
+   border: solid 1px #444654;
+   display: inline-flex;
+   align-items: center;
+   width: 244px;
+   height: 45px;
+   margin-bottom: 585px;
+   margin-left: 4px;
+   margin-top: 9px;
+   padding-left: 17px;
+   cursor: pointer;
+   background-color: transparent;
+   border-radius: 4px;
+}
+
+#left-toop img{
+   width: 11px;
+   height: 11px;
+   margin-right: 16px;
+}
+
+#left-toop h4{
+   font-size: 13.5px;
+   font-weight: 500;
+}
+
+#left-bottom{
+    background-color: #202123;
+}
+
+#line{
+   display: flex;
+   justify-content: center;
+   margin-bottom: 21px;
+}
+
+#light-mode{
+   display: inline-flex;
+   width: 108px;
+   height: 14px;
+   margin-left: 21px;
+   margin-bottom: 35px;
+}
+
+#light-mode h4{
+   font-size: 13.5px;
+   font-weight: 500;
+   margin-left: 13px;
+}
+
+#open-ai{
+   display: inline-flex;
+   width: 133px;
+   height: 12px;
+   margin-left: 21px;
+   margin-bottom: 35px;
+}
+
+#open-ai h4{
+   font-size: 13.5px;
+   font-weight: 500;
+   margin-left: 13px;
+}
+
+#updates{
+   display: inline-flex;
+   width: 127px;
+   height: 12px;
+   margin-left: 21px;
+   margin-bottom: 35px;
+}
+
+#updates h4{
+   font-size: 13.5px;
+   font-weight: 500;
+   margin-left: 13px;
+}
+
+#log-out{
+   display: inline-flex;
+   width: 85px;
+   height: 12px;
+   margin-left: 21px;
+}
+
+#log-out h4{
+   font-size: 13.5px;
+   font-weight: 500;
+   margin-left: 13px;
+}
+
+#top{
+    width: 100vw;
+    height: 238;
+}
+
+#first-line{
+    display: inline-flex;
+    align-items: center;
+    width: 484px;
+    height: 33px;
+    margin-top: 23px;
+    margin-left: 204px;
+}
+
+#first-line h4{
+    margin-left: 26px;
+}
+
+#second-line{
+    display: inline-flex; 
+    align-items: c;
+    width: 100vw;
+    height: 162px;
+    margin-top: 20px;
+    background-color: #444654;
+}
+
+#line-items{
+    display: inline-flex; 
+    align-items: center;
+    margin-left: 204px;
+}
+
+#chat-avatar{
+    width: 30px;
+    height: 30px;
+    margin-bottom: 55px;
+}
+
+#rating{
+    width: 41px;
+    height: 14px;
+    margin-bottom: 70px;
+}
+
+#big-text{
+    display: flex;
+    align-items: center;
+    width: 640px;
+    height: 108px;
+    margin-left: 26px;
+    margin-right: 37px;
+}
+
+#big-text h4{
+   font-size: 15px;
+   font-weight: 500;
+}
+
+footer{
+    display: flex;
+    flex-direction: column;
+    margin-top: 300px;
+}
+
+#pop{
+   margin-left: 204px;
+}
+
+#input{
+   display: flex;
+   align-items: center;
+   gap: 6px;
+   width: 768px;
+   height: 53px;
+   padding: 5 0 5 5;
+   border-radius: 3px;
+   color: white;
+   background-color: #444654;
+   margin-top: 200px;
+}
+
+#input img{
+   cursor: pointer;
+   margin-right: 15px;
+}
+
+#bottom-input{
+   width: 768px;
+   height: 48px;
+   background-color: transparent;
+   border: none;
+   color: white;
+   font-size: 16px;
+   padding-left: 10px;
+}
+
+#bottom-input:focus{
+   outline: none;
+}
+
+#bottom-text{
+   margin-left: 155px;
+   margin-top: 15px;
+}
+
+#bottom-text p{
+   font-size: 12px;
+   color: #9A9B9F;
+}
+
+#bottom-text a{
+   font-size: 12px;
+   color: #9A9B9F;
+}
+

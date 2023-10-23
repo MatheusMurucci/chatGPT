@@ -27,6 +27,7 @@ main{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding-left: 60px;
 }
 
 .login-middle h1{
@@ -70,8 +71,8 @@ input:focus{
     color: #0FA47F;
     position: absolute;
     background-color: white;
-    left: 510px;
-    bottom: 425px;
+    left: 762px;
+    bottom: 530px;
     padding-left: 5px;
 }
 

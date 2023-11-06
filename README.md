@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O "ChatGPT" consiste na clonagen das interface do chatGPT.
+O "ChatGPT" consiste na clonagen da interface do chatGPT.
 
 ## Objetivo
 

@@ -2,11 +2,11 @@
 
 ## Descrição
 
-O "ChatGPT" consiste na clonagen das páginas do chatGPT.
+O "ChatGPT" consiste na clonagen das interface do chatGPT.
 
 ## Objetivo
 
-O principal objetivo deste projeto é criar páginas atraentes e funcionais usando os conceitos básicos de desenvolvimento Front End. Essa página faz parte de um sistema de gestão de empresas.
+O principal objetivo deste projeto é criar páginas funcionais usando os conceitos básicos de desenvolvimento Front End. Essa página faz parte de um sistema de gestão de empresas.
 
 ## Tecnologias Utilizadas
 
@@ -21,6 +21,7 @@ O principal objetivo deste projeto é criar páginas atraentes e funcionais usan
 Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes desafios:
 
 - Organização eficiente de elementos em linhas e colunas, visando proporcionar uma experiência de usuário agradável.
+- Utilização de elementos sobrepostos para criar camadas de design envolventes e interessantes.
 
 ## Interface
 

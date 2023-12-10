@@ -26,6 +26,7 @@ main{
    width: 261px;
    height: 100vh;
    background-color: #202123;
+   padding-right: 100px;
 }
 
 #left-toop{
@@ -62,6 +63,7 @@ main{
    display: flex;
    justify-content: center;
    margin-bottom: 21px;
+   margin-left: 100px;
 }
 
 #light-mode{
@@ -130,7 +132,7 @@ main{
     width: 484px;
     height: 33px;
     margin-top: 23px;
-    margin-left: 204px;
+    margin-left: 300px;
 }
 
 #first-line h4{
@@ -138,8 +140,7 @@ main{
 }
 
 #second-line{
-    display: inline-flex; 
-    align-items: c;
+    display: inline-flex;
     width: 100vw;
     height: 162px;
     margin-top: 20px;
@@ -149,7 +150,11 @@ main{
 #line-items{
     display: inline-flex; 
     align-items: center;
-    margin-left: 204px;
+    margin-left: 300px;
+}
+
+#line-items h4{
+   line-height: 25px;
 }
 
 #chat-avatar{
@@ -185,20 +190,21 @@ footer{
 }
 
 #pop{
-   margin-left: 204px;
+   margin-left: 280px;
 }
 
 #input{
    display: flex;
    align-items: center;
    gap: 6px;
-   width: 768px;
+   width: 785px;
    height: 53px;
    padding: 5 0 5 5;
    border-radius: 3px;
    color: white;
    background-color: #444654;
    margin-top: 200px;
+   margin-left: 20px;
 }
 
 #input img{
@@ -221,7 +227,7 @@ footer{
 }
 
 #bottom-text{
-   margin-left: 155px;
+   margin-left: 250px;
    margin-top: 15px;
 }
 
